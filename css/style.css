@@ -480,12 +480,15 @@ number{
 
 
 .footinfo{
-    text-align:center;
     display: flex;
     justify-content: space-between;
     color: #828282;
     padding: 10px 0;
     font-size: 12px;
+}
+
+.footinfo p{
+ text-align:center;
 }
 
 
